@@ -1,4 +1,4 @@
-package io.cloudtype.waitlist.exception;
+package io.cloudtype.gs.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
